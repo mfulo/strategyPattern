@@ -51,6 +51,7 @@ Refactor the existing codes using Strategy Pattern:
     }
 
 ## UML Diagram
+![uml](https://github.com/mfulo/strategyPattern/assets/142382665/64b5e3d5-a78b-4d01-9528-fcb66c8ddff6)
 
 
 ## Sample output
