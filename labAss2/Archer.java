@@ -1,14 +1,11 @@
 package labAss2;
 
 public class Archer implements Type{
-	public String attack () {
+	public String attackStrategy () {
 		return "Archer shoots an arrow!";
-		
 	}
 	
-	public String defend () {
+	public String defenseStrategy () {
 		return "Using a shield to defend!";
-		
 	}
-
 }

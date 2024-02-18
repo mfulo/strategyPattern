@@ -1,8 +1,6 @@
 package labAss2;
 
 public interface Type {
-	
-	public String attack();
-	public String defend();
-
+	public String attackStrategy();
+	public String defenseStrategy();
 }

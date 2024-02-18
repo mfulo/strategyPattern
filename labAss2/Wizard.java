@@ -1,14 +1,11 @@
 package labAss2;
 
 public class Wizard implements Type{
-	public String attack () {
+	public String attackStrategy () {
 		return "Wizard casts a spell!";
-		
 	}
 	
-	public String defend () {
+	public String defenseStrategy () {
 		return "Creating a magic barrier for defense!";
-		
 	}
-
 }
