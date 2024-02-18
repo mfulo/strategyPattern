@@ -17,7 +17,7 @@ Implement two types of Strategy: <br>
 &emsp;&emsp;3.  SwingSword  <br>
 
 <br>
-Refactor the existing codes and provide the UML Diagram:
+Refactor the existing codes using Strategy Pattern:
 
     public class Character {
       private String type;
